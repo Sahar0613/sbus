@@ -1,0 +1,9 @@
+G:\项目\subs_analysis\sbus_display\sbus_display\bin\Debug\sbus_display.exe.config
+G:\项目\subs_analysis\sbus_display\sbus_display\bin\Debug\sbus_display.exe
+G:\项目\subs_analysis\sbus_display\sbus_display\bin\Debug\sbus_display.pdb
+G:\项目\subs_analysis\sbus_display\sbus_display\obj\Debug\sbus_display.csprojResolveAssemblyReference.cache
+G:\项目\subs_analysis\sbus_display\sbus_display\obj\Debug\sbus_display.Form1.resources
+G:\项目\subs_analysis\sbus_display\sbus_display\obj\Debug\sbus_display.Properties.Resources.resources
+G:\项目\subs_analysis\sbus_display\sbus_display\obj\Debug\sbus_display.csproj.GenerateResource.Cache
+G:\项目\subs_analysis\sbus_display\sbus_display\obj\Debug\sbus_display.exe
+G:\项目\subs_analysis\sbus_display\sbus_display\obj\Debug\sbus_display.pdb

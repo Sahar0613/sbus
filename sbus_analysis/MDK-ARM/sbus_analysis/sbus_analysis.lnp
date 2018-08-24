@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+"sbus_analysis\system_stm32f1xx.o"
+"sbus_analysis\startup_stm32f103xe.o"
+"sbus_analysis\stm32f1xx_hal_tim_ex.o"
+"sbus_analysis\stm32f1xx_hal_pwr.o"
+"sbus_analysis\stm32f1xx_hal_rcc_ex.o"
+"sbus_analysis\stm32f1xx_hal_dma.o"
+"sbus_analysis\stm32f1xx_hal_gpio_ex.o"
+"sbus_analysis\stm32f1xx_hal.o"
+"sbus_analysis\stm32f1xx_hal_tim.o"
+"sbus_analysis\stm32f1xx_hal_gpio.o"
+"sbus_analysis\stm32f1xx_hal_cortex.o"
+"sbus_analysis\stm32f1xx_hal_rcc.o"
+"sbus_analysis\stm32f1xx_hal_uart.o"
+"sbus_analysis\stm32f1xx_hal_flash.o"
+"sbus_analysis\stm32f1xx_hal_flash_ex.o"
+"sbus_analysis\stm32f1xx_hal_msp.o"
+"sbus_analysis\main.o"
+"sbus_analysis\stm32f1xx_it.o"
+"sbus_analysis\sbus.o"
+--library_type=microlib --strict --scatter "sbus_analysis\sbus_analysis.sct"
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "sbus_analysis.map" -o sbus_analysis\sbus_analysis.axf
